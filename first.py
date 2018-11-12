@@ -3,3 +3,4 @@ def first():
 
 a = 'haha'
 b = 2
+c = 3
